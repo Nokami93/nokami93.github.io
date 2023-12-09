@@ -4125,3 +4125,16 @@ body #ChannelsPreview::before {
   -webkit-mask: none !important;
           mask: none !important;
 }
+
+/* Online friends counter */
+#vc-friendcount {
+    margin-bottom: 16px !important;
+    margin-left: 16px !important;
+}
+
+/* Read all button */
+:has(> #vc-friendcount) + * {
+    margin-top: 55px !important;
+    margin-bottom: -55px !important;
+    margin-left: -55px !important;
+}
