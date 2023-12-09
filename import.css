@@ -19,12 +19,4 @@
 }
 .theme-light .folder__17546[aria-expanded="false"] {
     background-color: #747474;
-}	
-.expandedFolderBackground__1bec6 {
-    margin-top: -5px;
-	width: 55px;
-}
-.expandedFolderBackground__1bec6::after {
-    margin-top: -5px;
-	width: 55px;
 }
