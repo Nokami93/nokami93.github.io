@@ -10,8 +10,8 @@
 
 :root {
   --softx-version: "1.2.0";
-  --hue: 4eg;
-  --saturation: 10%;
+  --hue: 1deg;
+  --saturation: 5%;
   --lightness: 15%;
   --transition: 0.15s ease;
   --chat-glow-intensity: var(--glow-intensity);
@@ -27,7 +27,7 @@
   --TB-header-padding: 155px !important;
   --shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -1px rgb(0 0 0 / 0.06);
   --shadow-lg: 0 20px 25px -5px rgb(0 0 0 / 0.1), 0 10px 10px -5px rgb(0 0 0 / 0.04);
-  --border: #00000021;
+  --border: hsl(var(--hue) var(--saturation) calc(var(--lightness) / 2) / 0.6);
   --bg-primary: hsl(var(--hue) var(--saturation) var(--lightness) / calc(var(--opacity) + 0.05));
   --bg-secondary: hsl(var(--hue) var(--saturation) var(--lightness) / calc(var(--opacity) + 0.1));
   --bg-tertiary: hsl(var(--hue) var(--saturation) var(--lightness) / calc(var(--opacity) + 0.15));
@@ -68,6 +68,7 @@
   --brand-experiment-560: rgb(var(--accent), 0.55);
   --brand-experiment-600: rgb(var(--accent), 0.4);
 }
+
 
 html,
 span:not([class*=spinner_]):not([class*=spinnerItem]) {
