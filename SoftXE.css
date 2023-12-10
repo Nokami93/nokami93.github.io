@@ -4145,5 +4145,6 @@ body #ChannelsPreview::before {
 
 
 
-saved variables für border
---- hsl(var(--hue) var(--saturation) calc(var(--lightness) / 2) / 0.6);*
+/**saved variables
+
+--- Border: hsl(var(--hue) var(--saturation) calc(var(--lightness) / 2) / 0.6);* */

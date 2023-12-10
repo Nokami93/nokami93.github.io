@@ -10,6 +10,7 @@
 @import url(//dablulite.github.io/css-snippets/UserReimagined/condensed.css);
 @import url(//dablulite.github.io/css-snippets/BetterAuthApps/import.css); 
 
+
 /**
  * @name SoftXE
  * @author Nokami
@@ -20,6 +21,7 @@
 */
 
 :root {
+  --font: "Inter"; /* Custom font | Default: 'Inter' */
   --background-image: url('https://i.imgur.com/Nglfni6.png'); /* Background image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
   --background-blur: 55px; /* Blur intensity of --background-image */
   --opacity: 0.85; /* Opacity of overall app. | Default: .85 */
@@ -38,6 +40,7 @@
   --rs-medium-width: 2px;
   --rs-large-width: 2px;
   --rs-avatar-shape: 25%; /* 50% for round - 0% for square */
+  --server-roundness: 25%; /* Roundness for servers. | 0% = Square, 50% = Circle | Default: 50% */
   --rs-online-color: #43b581; /* Colour for online status */
   --rs-idle-color: #faa61a; /* Colour for idle status */
   --rs-dnd-color: #f04747; /* Colour for dnd status */
@@ -47,6 +50,8 @@
   --rs-phone-visible: block; /* Visibility of the phone icon next to a users avatar. | block = visible | none = hidden */
   --rs-invisible-color: #747f8d; /* Colour for invisible status - Note: this will only show for your own invisibility */
 }
+
+
 
 
 
