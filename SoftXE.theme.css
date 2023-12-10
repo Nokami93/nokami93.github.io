@@ -8,6 +8,15 @@
 @import url(//dablulite.github.io/css-snippets/UserReimagined/condensed.css);
 @import url(//dablulite.github.io/css-snippets/BetterAuthApps/import.css);
 
+/**
+ * @name SoftXE
+ * @author Nokami
+ * @version 1.0.0
+ * @description A smooth edit of SoftX!
+ * @source https://nokami93.github.io
+ * @Original: Gibbu
+*/
+
 :root {
   --background-image: url('https://i.imgur.com/Nglfni6.png'); /* Background image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
   --background-blur: 55px; /* Blur intensity of --background-image */
@@ -36,7 +45,7 @@
   --rs-phone-visible: block; /* Visibility of the phone icon next to a users avatar. | block = visible | none = hidden */
   --rs-invisible-color: #747f8d; /* Colour for invisible status - Note: this will only show for your own invisibility */
 }
-/* Any custom CSS below here */
+
 
 
 
