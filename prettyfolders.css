@@ -15,8 +15,8 @@
     filter: blur(2px);
 }
 .theme-dark .folder__17546[aria-expanded="false"] {
-    background-color: #474747;
+    background-color: #00d5a980;
 }
 .theme-light .folder__17546[aria-expanded="false"] {
-    background-color: #747474;
+    background-color: #00d5a980;
 }
