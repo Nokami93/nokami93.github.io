@@ -706,13 +706,14 @@ html.theme-light .container_ca50b9 {
   border-radius: 0;
 }
 #app-mount .expandedFolderBackground__1bec6 {
-  left: 50%;
-  transform: translateX(-50%);
-  background: rgba(225, 225, 255, 0.05);
-  width: 55px;
-  border-radius: clamp(0%, var(--server-roundness, 50%), 30px);
+    left: 50%;
+    transform: translateX(-50%);
+    background: rgb(225 225 255 / 4%);
+    width: 50px;
+    bottom: -1px;
+    top: -1px;
+    border-radius: clamp(0%, var(--server-roundness,), 15px);
 }
-
 #app-mount .numberBadge__50328 {
   box-shadow: 0 0 10px 3px hsl(359, calc(var(--saturation-factor, 1) * 82.6%), 59.4%, 0.5);
 }
