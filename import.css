@@ -1,4 +1,4 @@
-/**
+**
  * @name SoftXE
  * @author Nokami
  * @version 1.0.0
@@ -7,4 +7,17 @@
  * @Original: Gibbu
 */
 
-@import url("https://nokami93.github.io/VerticalUser.css");
+
+
+#app-mount > div.appAsidePanelWrapper__714a6 > div.notAppAsidePanel__9d124 > div.app_b1f720 > div > div.layers__1c917.layers_a23c37 > div > div > nav > ul > div.scroller__3d071.none__51a8f.scrollerBase_dc3aa9 > button:hover {
+	  left: 5px;
+	  background-color: #ff6200;
+	  transition: transform 0.3s ease; 
+	  transform: scale(1.1);  
+}
+#app-mount > div.appAsidePanelWrapper__714a6 > div.notAppAsidePanel__9d124 > div.app_b1f720 > div > div.layers__1c917.layers_a23c37 > div > div > nav > ul > div.scroller__3d071.none__51a8f.scrollerBase_dc3aa9 > button:active {
+	  left: 5px;
+	  background-color: #ff6200;
+	  transition: transform 0.3s ease; 
+	  transform: scale(1.2); 
+}
