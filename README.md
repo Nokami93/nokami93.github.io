@@ -16,8 +16,8 @@ https://github.com/Nokami93/nokami93.github.io/assets/9142295/629be5b0-6556-414a
 ## **Requirements**
 > Vencord (https://vencord.dev/)
 
-    + ReadAllNotificationsButton
-    + BetterFolders
+- ReadAllNotificationsButton
+- BetterFolders
 
 
 
