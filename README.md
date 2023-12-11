@@ -1,8 +1,29 @@
-Discord CSS Snippets + SoftX Theme Edit.
 
-![jul1FJP](https://github.com/Nokami93/nokami93.github.io/assets/9142295/0ff90727-cc51-4dcf-9370-3e87bde45447)
+# Discord SoftX Theme Edit & CSS Snippets
+
+https://github.com/Nokami93/nokami93.github.io/assets/9142295/629be5b0-6556-414a-89b7-bb8d50907b7f
 
 
-Original Theme: https://github.com/DiscordStyles/SoftX
+## **Installation**
+- Download [Vencord](https://vencord.dev/) and Install it!
+- Download any [SoftXE Theme Release](https://github.com/Nokami93/nokami93.github.io/releases) and extract it into [/vencord/themes](https://i.imgur.com/UCldJLr.png).
+- Start Discord and head over to Settings.
+- Enable *ReadAllNotificationsButton* & *BetterFolders* in the Plugins tab.
+- Look for *Themes* and Enable **SoftXE**.
+- Restart Discord or CTRL+ R.
 
-Only Compatible with Vencord (https://vencord.dev/)
+
+## **Requirements**
+> Vencord (https://vencord.dev/)
+
+- ReadAllNotificationsButton
+- BetterFolders
+
+
+
+
+
+#
+
+
+*Original:* [SoftX](https://github.com/DiscordStyles/SoftX)  & Vencord
