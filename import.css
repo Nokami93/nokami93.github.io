@@ -10,6 +10,6 @@
 	  transition: transform 0.3s ease; 
 	  transform: scale(1.2); 
 }
-.userPopoutOuter_d739b2 .bannerSVGWrapper__3e7b0 mask circle {
+/*.userPopoutOuter_d739b2 .bannerSVGWrapper__3e7b0 mask circle {
 	display: none;
-}
+} //
