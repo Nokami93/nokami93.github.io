@@ -9,7 +9,7 @@ https://github.com/Nokami93/nokami93.github.io/assets/9142295/629be5b0-6556-414a
 - Download [SoftXE.zip](https://github.com/Nokami93/nokami93.github.io/releases) and extract it into [/vencord/themes](https://i.imgur.com/UCldJLr.png).
 - Start Discord and head over to Settings.
 - Enable *ReadAllNotificationsButton* & *BetterFolders* in the Plugins tab.
-- Look for *Themes* and Enable **SoftXE**.
+- Look for *Themes* and Press "Load missing Themes" then enable **SoftXE**.
 - Restart Discord or CTRL+ R.
 
 
