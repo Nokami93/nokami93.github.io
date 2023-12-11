@@ -1,8 +1,11 @@
 Discord CSS Snippets + SoftX Theme Edit.
 
-![jul1FJP](https://github.com/Nokami93/nokami93.github.io/assets/9142295/0ff90727-cc51-4dcf-9370-3e87bde45447)
+https://github.com/Nokami93/nokami93.github.io/assets/9142295/629be5b0-6556-414a-89b7-bb8d50907b7f
 
 
-Original Theme: https://github.com/DiscordStyles/SoftX
+Original: @SoftX @Gibbu
 
-Only Compatible with Vencord (https://vencord.dev/)
+Vencord (https://vencord.dev/)
+
+
+
